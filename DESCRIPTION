@@ -1,0 +1,11 @@
+Package: GlobalRDD
+Title: A Global Regression Discontinuity Design
+Version: 0.0.0.9000
+Authors@R: 
+    person("Isaac", "Opper", email = "iopper@rand.org", role = c("aut", "cre"))
+Description: This packages implements the Global Regression Discontinuity Design, as discussed in Opper and Ozek (2024).
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
